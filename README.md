@@ -30,7 +30,7 @@ npm run dev
   npm run start
   ```
 
-Open http://localhost:3000 on
+Open http://localhost:3000 on browser
 
 ## Unit Testing
 
@@ -62,4 +62,4 @@ npm run cypress
 
 # Example Deployment
 
-waiting . . .
+### <https://code-ftv2.vercel.app>
